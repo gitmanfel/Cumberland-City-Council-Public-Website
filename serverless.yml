@@ -3,7 +3,7 @@
 
 service: aws-node-project
 app: serverless
-org: srvlessfwrk
+org: felicienmanzi
 
 provider:
   name: aws
