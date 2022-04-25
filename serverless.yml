@@ -1,7 +1,7 @@
 # serverless.yml
 # cccouncilpublicwebsite.tk
 
-service: publicwebsite
+service: aws-node-project
 app: cccouncil
 org: srvlessfwrk
 
