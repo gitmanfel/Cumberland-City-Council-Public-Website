@@ -2,7 +2,7 @@
 # cccouncilpublicwebsite.tk
 
 service: aws-node-project
-app: cccouncil
+app: serverless
 org: srvlessfwrk
 
 provider:
